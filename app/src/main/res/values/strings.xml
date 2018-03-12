@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="permission">Please grant READ_SMS permission.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
